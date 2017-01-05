@@ -107,5 +107,3 @@ want to contribute code, please `fork the code`_ and `submit a pull request`_.
 .. _log them on Github: https://github.com/pybee/voc/issues
 .. _fork the code: https://github.com/pybee/voc
 .. _submit a pull request: https://github.com/pybee/voc/pulls
-
-this is a change hat i made
